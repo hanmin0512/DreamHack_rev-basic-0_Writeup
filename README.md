@@ -1,6 +1,6 @@
 
 # 드림핵 rev-basic-1 WriteUP
-워게임 주소: https://dreamhack.io/wargame/challenges/15/
+워게임 주소: https://dreamhack.io/wargame/challenges/14/
 
 ## 동적 분석
 
