@@ -1,4 +1,5 @@
-<img width="563" alt="스크린샷 2024-08-27 오후 7 23 38" src="https://github.com/user-attachments/assets/9f7132dd-0c2b-48ac-b264-2c9d2b854317"># 드림핵 rev-basic-1 WriteUP
+
+# 드림핵 rev-basic-1 WriteUP
 워게임 주소: https://dreamhack.io/wargame/challenges/15/
 
 ## 동적 분석
