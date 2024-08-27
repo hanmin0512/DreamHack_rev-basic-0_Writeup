@@ -71,6 +71,8 @@ sub_140001000를 더블클릭하여 디컴파일된 함수를 보아, 사용자 
 
 메인함수에서 f4를 눌러 디버깅을 진행하여 사용자 입력 값을 "Compar3_the_str1ng"로 입력한다.
 
+## 결론
+
 <img width="276" alt="스크린샷 2024-08-27 오후 7 47 38" src="https://github.com/user-attachments/assets/178c116f-858b-422f-a24f-4d64ef548a4d">
 
 
